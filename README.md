@@ -1,4 +1,3 @@
-|[logo](https://github.com/kaiynatmali/kaiynatmali/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">Assalam u Alaikum 👋, im Kaiynat MALI</h1>
 <h3 align="center">A passionate developer from Karachi Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw0oTfCL1tpwJA40_WA_jP4z&ust=1742573152730000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiHrYGFmYwDFQAAAAAdAAAAABAE">

@@ -1,0 +1,28 @@
+// operators
+// + operator for adding
+  
+  
+  int num1 = 100;
+  int num2 = 45;
+  
+  int add = num1 + num2;
+  print(add);
+  
+// -minus operator 
+  
+  int sub = num1 - num2;
+  print(sub);
+  
+// * multiply operator 
+  
+  int mul = num1 * num2;
+  print(mul); 
+  
+//  / divide operator
+  
+  int div = num1 ~/ num2;
+  print(div);
+  
+  double dvi = num1 / num2;
+  print(dvi);
+  
